@@ -1,0 +1,21 @@
+{
+  "name": "HatchTools",
+  "version": "0.0.01",
+  "displayName": "Hatch's Tools",
+  "description": "A collection of useful and not so useful tools for making games in Unity",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.[company-name].some-package": "1.0.0",
+ },
+ "keywords": [
+    "Hatch",
+    "Hatch's",
+    "Tool",
+    "Tools"
+  ],
+  "author": {
+    "name": "CHRISTOPHER HATCH",
+    "email": "chris@94interactive.com",
+    "url": "https://94interactive.com"
+  }
+}
