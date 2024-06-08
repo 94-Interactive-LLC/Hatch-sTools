@@ -1,12 +1,10 @@
 {
   "name": "com.94interactive.hatchstools",
-  "version": "0.0.01",
+  "version": "0.0.1",
   "displayName": "Hatch's Tools",
   "description": "A collection of useful and not so useful tools for making games in Unity",
   "unity": "2019.3",
-  "dependencies": {
-    "com.[company-name].some-package": "1.0.0"
- },
+  "dependencies": {},
  "keywords": [
     "Hatch",
     "Hatch's",
